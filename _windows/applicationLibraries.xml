@@ -1,11 +1,20 @@
 <application>
   <component name="libraryTable">
+    <library name="commons-lang-2.6">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/Desktop/commons-lang-2.6.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="commons-lang3-3.0">
       <CLASSES>
         <root url="jar://$USER_HOME$/Desktop/commons-lang3-3.0.jar!/" />
       </CLASSES>
       <JAVADOC />
-      <SOURCES />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ideaLibSources/commons-lang3-3.0-sources.jar!/" />
+      </SOURCES>
     </library>
   </component>
 </application>
